@@ -1,6 +1,5 @@
-package java;
 
-public class Basic {
+public class Sekhar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
