@@ -1,4 +1,4 @@
-//WIDENING CASTING(Automaically)S --- L
+//WIDENING CASTING(S --- L)
 public class Main {
 	public static void main(String[] args) {
 		int myInt = 9;
